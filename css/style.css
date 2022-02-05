@@ -1,0 +1,97 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+header{
+	background: url(../img/images.jpg) no-repeat;
+	background-size: cover;
+	width: 100%;
+	float: left;
+	
+}
+.header-section{
+	width: 50%;
+	float: left;
+	
+}
+.text{
+	margin: 20px;
+	
+}
+.text h1{
+	color: white;
+	font-size: 50px;
+	margin: 20px;
+
+}
+.text h3{
+	color: white;
+	margin: 20px;
+    
+
+}
+.fa.fa-clock-o{
+	color: white;
+}
+.icon-text{
+	margin: 20px;
+	color: white;
+
+}
+.icon-text ul{
+
+}
+.icon-text ul li{
+	list-style: none;
+
+}
+.send-btn{
+
+}
+.send-btn{
+	text-decoration: none;
+	background-color: skyblue;
+	border: none;
+	border-radius: 22px 20px;
+	padding: 10px 10px;
+	color: white;
+	margin: 20px;
+
+}
+.reg-text{
+	width: 50%;
+	float: left;
+	background-color: skyblue;
+	margin: 20px;
+
+}
+.reg-text h1{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+
+}
+.reg-text h3{
+	color: white;
+	margin: 10px;
+	text-align: center;
+
+}
+.fill-up{
+
+	text-align: center;
+	background-color: skyblue;
+
+
+}
+.reg-now{
+	text-decoration: none;
+	color: white;
+	padding: 12px 10px;
+	background-color: blue;
+	margin: 20px;
+}
